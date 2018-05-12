@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: 'Great Marvel Series: Volume 1'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14665#Through-the-Air-to-the-North-Pole--13-Or-The-Wonderful-Cruise-of-the-Electric-Monarch
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2005-01-11'
 gutenberg_type: Text
