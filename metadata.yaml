@@ -1,0 +1,28 @@
+_repo: Through-the-Air-to-the-North-Pole--13-Or-The-Wonderful-Cruise-of-the-Electric-Monarch_14665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
+description: 'Great Marvel Series: Volume 1'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Airships -- Juvenile fiction'
+title: "Through the Air to the North Pole\r\nOr, The Wonderful Cruise of the Electric\
+  \ Monarch"
+url: http://www.gutenberg.org/ebooks/14665
